@@ -1,0 +1,5 @@
+console_access_settings:
+    console_endpoint: "https://console.aitrios.sony-semicon.com/api/v2"
+    portal_authorization_endpoint: "https://auth.aitrios.sony-semicon.com/oauth2/default/v1/token"
+    client_secret: "i_LNkxnsoioL04TKvSi0-aMYjjRZXPUoQM2lsD4YVlvziSZ3-67gOPQCQkbdy1i2"
+    client_id: "0oarqn4levP9IbKvH697"
